@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.exe
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.deps.json
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.runtimeconfig.json
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.dll
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\ref\lesson2.4.2.dll
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\bin\Debug\net5.0\lesson2.4.2.pdb
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.dll
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\ref\lesson2.4.2.dll
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.pdb
+C:\Users\Computer\source\repos\Homework\lesson2.4.2\obj\Debug\net5.0\lesson2.4.2.genruntimeconfig.cache
