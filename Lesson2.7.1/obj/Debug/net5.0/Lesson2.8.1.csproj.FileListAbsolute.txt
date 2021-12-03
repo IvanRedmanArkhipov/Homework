@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.exe
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.deps.json
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.runtimeconfig.json
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\ref\Lesson2.8.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\bin\Debug\net5.0\Lesson2.8.1.pdb
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\ref\Lesson2.8.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.pdb
+C:\Users\Computer\source\repos\Homework\Lesson2.7.1\obj\Debug\net5.0\Lesson2.8.1.genruntimeconfig.cache

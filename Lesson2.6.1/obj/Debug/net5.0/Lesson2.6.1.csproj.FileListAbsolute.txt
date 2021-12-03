@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.exe
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.deps.json
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.runtimeconfig.json
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\ref\Lesson2.6.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\bin\Debug\net5.0\Lesson2.6.1.pdb
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\ref\Lesson2.6.1.dll
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.pdb
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.genruntimeconfig.cache
+C:\Users\Computer\source\repos\Homework\Lesson2.6.1\obj\Debug\net5.0\Lesson2.6.1.csproj.AssemblyReference.cache

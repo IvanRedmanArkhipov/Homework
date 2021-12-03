@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computer\\source\\repos\\Homework4\\homework\\homework2\\homework2.csproj": {}
+    "C:\\Users\\Computer\\source\\repos\\Homework\\homework\\homework2\\homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computer\\source\\repos\\Homework4\\homework\\homework2\\homework2.csproj": {
+    "C:\\Users\\Computer\\source\\repos\\Homework\\homework\\homework2\\homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computer\\source\\repos\\Homework4\\homework\\homework2\\homework2.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\source\\repos\\Homework\\homework\\homework2\\homework2.csproj",
         "projectName": "homework2",
-        "projectPath": "C:\\Users\\Computer\\source\\repos\\Homework4\\homework\\homework2\\homework2.csproj",
+        "projectPath": "C:\\Users\\Computer\\source\\repos\\Homework\\homework\\homework2\\homework2.csproj",
         "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computer\\source\\repos\\Homework4\\homework\\homework2\\obj\\",
+        "outputPath": "C:\\Users\\Computer\\source\\repos\\Homework\\homework\\homework2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
